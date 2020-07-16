@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307015104884",
+    "firebase_url": "https://firestore2-eb6fc.firebaseio.com",
+    "project_id": "firestore2-eb6fc",
+    "storage_bucket": "firestore2-eb6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307015104884:android:79860da08c125e51039421",
+        "android_client_info": {
+          "package_name": "com.cu.firestore2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307015104884-khbti32845va6un1l2qtfdnldfbnue2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72tMWRIRmTrFk1VDbCBp_YBu_tjUfFWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307015104884-khbti32845va6un1l2qtfdnldfbnue2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
